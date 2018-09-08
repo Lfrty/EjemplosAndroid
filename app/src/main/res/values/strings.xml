@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">EjemplosAndroid</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="salir">SALIR</string>
+    <string name="btnSalir">SALIR</string>
+    <string name="btnGoogle">GOOGLE</string>
+    <string name="btnToogle">TOOGLE</string>
 </resources>
